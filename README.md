@@ -26,9 +26,6 @@ Use these short videos as visual proof points for Thermometrics manufacturing an
 | RTD testing and verification | [thermometrics_rtd_testing_hightech_hero.mp4](https://github.com/Thermometrics/.github/blob/main/manufacturing-videos/thermometrics_rtd_testing_hightech_hero.mp4) | RTD temperature sensor testing, inspection, and verification work for custom resistance temperature detector assemblies. Useful for buyers evaluating Pt100/Pt1000 RTD manufacturing, calibration support, and documentation-driven sensor programs. | [RTDs](https://thermometricscorp.com/rtds.html), [Calibration Services](https://thermometricscorp.com/calibration.html), [Request a Quote](https://thermometricscorp.com/rfq.html) |
 | CNC thermowell machining | [thermometrics_cnc_hightech_hero.mp4](https://github.com/Thermometrics/.github/blob/main/manufacturing-videos/thermometrics_cnc_hightech_hero.mp4) | CNC machining of thermowell hardware for industrial temperature sensor assemblies. Useful for engineers sourcing machined thermowells, flanged temperature sensor assemblies, fittings, and custom probe hardware. | [Thermowells](https://thermometricscorp.com/thermowells.html), [Capabilities](https://thermometricscorp.com/capabilities.html), [Flanges](https://thermometricscorp.com/flanges.html), [Request a Quote](https://thermometricscorp.com/rfq.html) |
 
-Suggested release copy:
-
-> This release includes Thermometrics manufacturing videos from the public GitHub `manufacturing-videos` directory showing RTD testing and CNC thermowell machining, along with links to technical resources for thermocouples, RTDs, thermowells, calibration services, flange dimensions, and temperature sensor reference charts.
 
 ## What This Repository Covers
 
